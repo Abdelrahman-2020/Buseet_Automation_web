@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="2" total="3" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-08-12T12:38:12 EET" name="Default suite" finished-at="2021-08-12T12:38:18 EET" duration-ms="6630">
+    <groups>
+    </groups>
+    <test started-at="2021-08-12T12:38:12 EET" name="Default test" finished-at="2021-08-12T12:38:18 EET" duration-ms="6630">
+      <class name="tests.Test_Base">
+        <test-method is-config="true" signature="Start_Chrome()[pri:0, instance:tests.Test_Base@7e4579c7]" started-at="2021-08-12T12:38:03 EET" name="Start_Chrome" finished-at="2021-08-12T12:38:12 EET" duration-ms="8332" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Start_Chrome -->
+        <test-method is-config="true" signature="Stop_Driver()[pri:0, instance:tests.Test_Base@7e4579c7]" started-at="2021-08-12T12:38:19 EET" name="Stop_Driver" finished-at="2021-08-12T12:38:22 EET" duration-ms="2961" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Stop_Driver -->
+      </class> <!-- tests.Test_Base -->
+      <class name="tests.Test_directions">
+        <test-method signature="set_diection()[pri:0, instance:tests.Test_directions@1727e03a]" started-at="2021-08-12T12:38:12 EET" name="set_diection" finished-at="2021-08-12T12:38:18 EET" duration-ms="6368" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- set_diection -->
+      </class> <!-- tests.Test_directions -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
